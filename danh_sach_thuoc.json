@@ -1,0 +1,56 @@
+[
+  {
+    "ten": "Huyết áp",
+    "thoi_gian": "15:45",
+    "lich_su_uong": [
+      "2025-10-14_15:45"
+    ],
+    "trang_thai": "khong_uong"
+  },
+  {
+    "ten": "Tiểu đường",
+    "thoi_gian": "18:00",
+    "lich_su_uong": [
+      "2025-12-02_18:00"
+    ],
+    "trang_thai": "da_uong"
+  },
+  {
+    "ten": "Xương khớp ",
+    "thoi_gian": "18:08",
+    "lich_su_uong": [],
+    "trang_thai": "khong_uong"
+  },
+  {
+    "ten": "Tim mạch",
+    "thoi_gian": "18:09",
+    "lich_su_uong": [
+      "2025-12-02_18:09"
+    ],
+    "trang_thai": "da_uong"
+  },
+  {
+    "ten": "ho",
+    "thoi_gian": "11:33",
+    "lich_su_uong": [
+      "2026-03-29_11:33"
+    ],
+    "trang_thai": "da_uong"
+  },
+  {
+    "ten": "phổi",
+    "thoi_gian": "10:24",
+    "lich_su_uong": [
+      "2026-07-11_10:24"
+    ],
+    "trang_thai": "da_uong"
+  },
+  {
+    "ten": "tim",
+    "thoi_gian": "11:45",
+    "lich_su_uong": [
+      "2026-07-11_11:45"
+    ],
+    "trang_thai": "da_uong"
+  }
+]
